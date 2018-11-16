@@ -1,0 +1,28 @@
+C:\Users\PaulS2\Documents\MyProjects\CityInfoAPI\CityInfoAPI\bin\Debug\netcoreapp2.1\CityInfoAPI.deps.json
+C:\Users\PaulS2\Documents\MyProjects\CityInfoAPI\CityInfoAPI\bin\Debug\netcoreapp2.1\CityInfoAPI.runtimeconfig.json
+C:\Users\PaulS2\Documents\MyProjects\CityInfoAPI\CityInfoAPI\bin\Debug\netcoreapp2.1\CityInfoAPI.runtimeconfig.dev.json
+C:\Users\PaulS2\Documents\MyProjects\CityInfoAPI\CityInfoAPI\bin\Debug\netcoreapp2.1\CityInfoAPI.dll
+C:\Users\PaulS2\Documents\MyProjects\CityInfoAPI\CityInfoAPI\bin\Debug\netcoreapp2.1\CityInfoAPI.pdb
+C:\Users\PaulS2\Documents\MyProjects\CityInfoAPI\CityInfoAPI\obj\Debug\netcoreapp2.1\CityInfoAPI.csproj.CoreCompileInputs.cache
+C:\Users\PaulS2\Documents\MyProjects\CityInfoAPI\CityInfoAPI\obj\Debug\netcoreapp2.1\CityInfoAPI.RazorAssemblyInfo.cache
+C:\Users\PaulS2\Documents\MyProjects\CityInfoAPI\CityInfoAPI\obj\Debug\netcoreapp2.1\CityInfoAPI.RazorAssemblyInfo.cs
+C:\Users\PaulS2\Documents\MyProjects\CityInfoAPI\CityInfoAPI\obj\Debug\netcoreapp2.1\CityInfoAPI.AssemblyInfoInputs.cache
+C:\Users\PaulS2\Documents\MyProjects\CityInfoAPI\CityInfoAPI\obj\Debug\netcoreapp2.1\CityInfoAPI.AssemblyInfo.cs
+C:\Users\PaulS2\Documents\MyProjects\CityInfoAPI\CityInfoAPI\obj\Debug\netcoreapp2.1\CityInfoAPI.RazorTargetAssemblyInfo.cache
+C:\Users\PaulS2\Documents\MyProjects\CityInfoAPI\CityInfoAPI\obj\Debug\netcoreapp2.1\CityInfoAPI.dll
+C:\Users\PaulS2\Documents\MyProjects\CityInfoAPI\CityInfoAPI\obj\Debug\netcoreapp2.1\CityInfoAPI.pdb
+C:\Users\PaulS2\Downloads\CitiesAPI-master (1)\CitiesAPI-master\CityInfoAPI\bin\Debug\netcoreapp2.1\CityInfoAPI.deps.json
+C:\Users\PaulS2\Downloads\CitiesAPI-master (1)\CitiesAPI-master\CityInfoAPI\bin\Debug\netcoreapp2.1\CityInfoAPI.runtimeconfig.json
+C:\Users\PaulS2\Downloads\CitiesAPI-master (1)\CitiesAPI-master\CityInfoAPI\bin\Debug\netcoreapp2.1\CityInfoAPI.runtimeconfig.dev.json
+C:\Users\PaulS2\Downloads\CitiesAPI-master (1)\CitiesAPI-master\CityInfoAPI\bin\Debug\netcoreapp2.1\CityInfoAPI.dll
+C:\Users\PaulS2\Downloads\CitiesAPI-master (1)\CitiesAPI-master\CityInfoAPI\bin\Debug\netcoreapp2.1\CityInfoAPI.pdb
+C:\Users\PaulS2\Downloads\CitiesAPI-master (1)\CitiesAPI-master\CityInfoAPI\obj\Debug\netcoreapp2.1\CityInfoAPI.csprojAssemblyReference.cache
+C:\Users\PaulS2\Downloads\CitiesAPI-master (1)\CitiesAPI-master\CityInfoAPI\obj\Debug\netcoreapp2.1\CityInfoAPI.csproj.CoreCompileInputs.cache
+C:\Users\PaulS2\Downloads\CitiesAPI-master (1)\CitiesAPI-master\CityInfoAPI\obj\Debug\netcoreapp2.1\CityInfoAPI.RazorAssemblyInfo.cache
+C:\Users\PaulS2\Downloads\CitiesAPI-master (1)\CitiesAPI-master\CityInfoAPI\obj\Debug\netcoreapp2.1\CityInfoAPI.RazorAssemblyInfo.cs
+C:\Users\PaulS2\Downloads\CitiesAPI-master (1)\CitiesAPI-master\CityInfoAPI\obj\Debug\netcoreapp2.1\CityInfoAPI.AssemblyInfoInputs.cache
+C:\Users\PaulS2\Downloads\CitiesAPI-master (1)\CitiesAPI-master\CityInfoAPI\obj\Debug\netcoreapp2.1\CityInfoAPI.AssemblyInfo.cs
+C:\Users\PaulS2\Downloads\CitiesAPI-master (1)\CitiesAPI-master\CityInfoAPI\obj\Debug\netcoreapp2.1\CityInfoAPI.RazorTargetAssemblyInfo.cache
+C:\Users\PaulS2\Downloads\CitiesAPI-master (1)\CitiesAPI-master\CityInfoAPI\obj\Debug\netcoreapp2.1\CityInfoAPI.dll
+C:\Users\PaulS2\Downloads\CitiesAPI-master (1)\CitiesAPI-master\CityInfoAPI\obj\Debug\netcoreapp2.1\CityInfoAPI.pdb
+C:\Users\PaulS2\Documents\MyProjects\CityInfoAPI\CityInfoAPI\obj\Debug\netcoreapp2.1\CityInfoAPI.csprojAssemblyReference.cache
