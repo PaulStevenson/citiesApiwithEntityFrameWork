@@ -8,6 +8,8 @@ namespace CityInfoAPI.Services
 {
     public interface ICityInfoRepository
     {
+        bool CityExisits(int cityId);
+
         IEnumerable<City> GetCities();
 
         City GetCity(int cityId, bool includePointsOfInterest);
