@@ -1,4 +1,5 @@
 ﻿using CityInfoAPI.Entities;
+using CityInfoAPI.Services;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Mvc.Formatters;
@@ -29,6 +30,8 @@ namespace CityInfoAPI
 
             var connectionString = Startup.Configuration["connectionStrings:cityInfoDBConnectionString"];
             services.AddDbContext<CityInfoContext>(o => o.UseSqlServer(connectionString));
+
+            services.AddScoped<ICityInfoRepository, CityInfoRepository>();
 
 //#if DEBUG
 //            services.AddTransient<IMailService, LocalMailService>();
